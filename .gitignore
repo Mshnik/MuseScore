@@ -1,0 +1,5 @@
+# MAC
+.DS_STORE
+
+# Temp files
+.*.mscz,
