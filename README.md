@@ -6,15 +6,6 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
    + Original sung by Christina Perri
 	+ 5 parts (SATBB), plus solo
 	+ Percussion
-1. Achshav
-	+ 5 parts (SMATB), plus solo
-	+ Percussion
-	+ Hebrew
-1. Af Echad
-   + 5 parts (SMATB), plus solo (Alto)
-	+ Percussion
-	+ Hebrew
-	+ Refer to final version
 1. Ain't It Fun
    + Original sung by Paramore
 	+ 5 parts (SATBB), plus solo (Alto)
@@ -24,10 +15,6 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
 	+ 4 parts (SATB), plus solo (Tenor)
 	+ Percussion
 	+ Hand clapping
-1. Al Hanissim
-	+ Hebrew
-	+ Holiday song
-	   + Hanukkah
 1. All I Want for Christmas (AIWFC)
    + Original sung by Mariah Carey
 	+ 5 parts (SMATB), plus drums.
@@ -38,8 +25,6 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
 1. American Boy
    + Original sung by Estelle
 1. Amsterdam
-1. Ani Maamin
-   + Hebrew
 1. Are You Gonna Be My Girl
 1. Aseh
 1. Ashira (When you believe)
@@ -56,8 +41,6 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
 1. Breathe For The First Time
 1. Brielle
 1. Brother
-1. Bshem
-   + Hebrew
 1. Burnin Up
 1. Butterfly
 1. Bye Bye Bye
@@ -65,8 +48,6 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
    + Co-ed or male-only
 1. Can't Buy Me Love
    + Original sung by The Beatles
-1. Chalomot
-   + Hebrew
 1. Change Of Seasons
 1. Chasing Cars
    + Original sung by Snow Patrol
@@ -90,17 +71,11 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
 1. Dancing Queen / On My Own
    + Original sung by Abba and Robin
 	+ Mashup
-1. Darkeinu
-   + Hebrew
 1. Dog Days Are Over
    + Original sung by Florence and the Machine
 1. Dreaming
-1. Efer Veavak
-   + Hebrew
 1. Eighteen Cool
    + Original sung by Hoodie Allen
-1. Eili, Eili
-   + Hebrew
 1. Elastic Heart
    + Original sung by Sia
 1. Et Rikod
@@ -132,18 +107,12 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
 1. Good Things Come To Those Who Wait
 1. Good Times
 1. Hallelujah
-1. Hanukah Mashup
-   + Hebrew
-	+ Holiday Song
-	   + Hanukkah
 1. Hate how much I love you
    + Original sung by Conor Maynard
 1. Havana
    + Original sung by Camilla Cabello
 1. High Hopes
 1. Hold My Hand
-1. Holech Lesham
-   + Hebrew
 1. Home
 1. Hooked
 1. I Really Want It
@@ -155,41 +124,27 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
 1. I Really Want It (remastered)
 1. I Want You
 1. I Want You Back
-1. Ihiye Beseder
-   + Hebrew
 1. It's Gonna Be Me
    + Original sung by N*Sync
 1. Jealous (I Ain't With It)
    + Original sung by Chromeo
-1. Ki Malachav
-   + Hebrew
 1. King of Anything
 1. Let's Get it Started
    + Original sung by The Black Eyed Peas
 1. Little talks
    + Original sung by Of Monsters and Men
-1. Lo Yaavod Yehey
-   + Hebrew
 1. Location
 1. Love, Save the Empty
 1. Lucky
    + Original sung by Britney Spears
 1. Magic
-1. Maoh Tzur
-   + Hebrew
-	+ Holiday song
-	   + Hanukkah
 1. Mercy
    + Original sung by Duffy
-1. Mi Shema'amin
-   + Hebrew
 1. Miracle
    + Holiday song
 	   + Hanukkah
 1. Morning Comes
 1. Moving Forward
-1. Nachamu
-   + Hebrew
 1. Need Your Love
 1. Never Gonna Give You Up
 1. Nicotine
@@ -198,8 +153,6 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
 1. No Interruption
    + Original sung by Hoodie Allen
 1. No Lies
-1. Notenet Li Bayit
-   + Hebrew
 1. Numb
 1. One Day
 1. Oops I Did it Again
@@ -217,8 +170,6 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
 1. Run Away With Me / Everytime We Touch
 1. Run To You
    + Original sung by Penatonix
-1. Sam Tabaat Aleha
-   + Hebrew
 1. San Francisco
 1. Say (All I Need)
    + Original sung by OneRepublic
@@ -245,12 +196,6 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
 1. Superstition
    + Original sung by Stevie Wonder
 1. Survive
-1. Tachzir Li Ota
-   + Hebrew
-1. Tamid Itcha
-   + Hebrew
-1. Tazizu
-   + Hebrew
 1. Tell Me You Love Me
 1. The Longest Time
    + Original sung by Billy Joel
@@ -259,8 +204,6 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
    + Original sung by Guster
 1. Thnks fr th Mmrs
    + Original sung by Fall Out Boy
-1. Umacha
-   + Hebrew
 1. Up All Night
 1. Use Somebody
    + Original sung by Kings of Leon
@@ -282,15 +225,53 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
 1. Won't Mind
 1. Work This Body
    + Original sung by Walk the Moon
-1. Yesh Tikvah
-   + Hebrew
 1. Yo Ya
    + Opening, unfinished
 1. You Could Be Happy
    + Original sung by Snow Patrol
-1. Zahav
-   + Hebrew
 
+
+### Hebrew
+
+Music with Hebrew names or in Hebrew. This includes holiday music.
+
+1. Achshav
+	+ 5 parts (SMATB), plus solo
+	+ Percussion
+1. Af Echad
+   + 5 parts (SMATB), plus solo (Alto)
+	+ Percussion
+	+ Refer to final version
+1. Al Hanissim
+	+ Holiday song
+	   + Hanukkah
+1. Ani Maamin
+1. Bshem
+1. Chalomot
+1. Darkeinu
+1. Efer Veavak
+1. Eili, Eili
+1. Hanukah Mashup
+	+ Holiday Song
+	   + Hanukkah
+1. Holech Lesham
+1. Ihiye Beseder
+1. Ki Malachav
+1. Lo Yaavod Yehey
+1. Maoh Tzur
+   + Hebrew
+	+ Holiday song
+	   + Hanukkah
+1. Mi Shema'amin
+1. Nachamu
+1. Notenet Li Bayit
+1. Sam Tabaat Aleha
+1. Tachzir Li Ota
+1. Tamid Itcha
+1. Tazizu
+1. Umacha
+1. Yesh Tikvah
+1. Zahav
 
 1. אשת חיל
 1. צועקת לך
