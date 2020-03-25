@@ -207,9 +207,12 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
    + Original sung by Lou Reed
 1. Rock Bottom
 1. Rockabye
+   + Original sung by Clean Bandit
 1. Run Away With Me
+   + Original sung by Carly Rae Jepen
 1. Run Away With Me / Everytime We Touch
-1. Run To You PTX
+1. Run To You
+   + Original sung by Penatonix
 1. Sam Tabaat Aleha
    + Hebrew
 1. San Francisco
@@ -270,6 +273,7 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
 1. Wings
 1. Won't Mind
 1. Work This Body
+   + Original sung by Walk the Moon
 1. Yesh Tikvah
    + Hebrew
 1. Yo Ya
