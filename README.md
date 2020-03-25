@@ -42,7 +42,8 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
    + Hebrew
 1. Are You Gonna Be My Girl
 1. Aseh
-1. Ashira
+1. Ashira (When you believe)
+   + Original sung in The Prince of Egypt
 1. At Yaffa
    + Hebrew
 1. Born This Way
@@ -57,7 +58,7 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
 1. Brother
 1. Bshem
    + Hebrew
-1. Burnin Up Final
+1. Burnin Up
 1. Butterfly
 1. Bye Bye Bye
    + Original sung by N*Sync
@@ -76,7 +77,7 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
 1. Closing Time
    + Original sung by Semisonic
 1. Cold Water
-1. Cornell Alma Mater
+   + Original sung by Major Lazer
 1. Cowboy Cassanova 12/8
    + Original sung by Carrie Underwood
 1. D.C. Sleeps Alone Tonight
@@ -87,6 +88,8 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
 1. Dancing Queen
    + Original sung by ABBA
 1. Dancing Queen / On My Own
+   + Original sung by Abba and Robin
+	+ Mashup
 1. Darkeinu
    + Hebrew
 1. Dog Days Are Over
@@ -156,7 +159,6 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
    + Hebrew
 1. It's Gonna Be Me
    + Original sung by N*Sync
-1. Ithaca Nights
 1. Jealous (I Ain't With It)
    + Original sung by Chromeo
 1. Ki Malachav
@@ -165,6 +167,7 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
 1. Let's Get it Started
    + Original sung by The Black Eyed Peas
 1. Little talks
+   + Original sung by Of Monsters and Men
 1. Lo Yaavod Yehey
    + Hebrew
 1. Location
@@ -188,11 +191,12 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
 1. Nachamu
    + Hebrew
 1. Need Your Love
-1. Never Gonna Give Simple
+1. Never Gonna Give You Up
 1. Nicotine
    + Original sung by Panic! At the Disco
 1. No
 1. No Interruption
+   + Original sung by Hoodie Allen
 1. No Lies
 1. Notenet Li Bayit
    + Hebrew
@@ -217,7 +221,9 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
    + Hebrew
 1. San Francisco
 1. Say (All I Need)
+   + Original sung by OneRepublic
 1. Say You Won't Let Go
+   + Original sung by James Arthur
 1. Shallow
    + Original sung by Lady Gaga in A Star is Born
 1. Shut Up and Dance
@@ -232,6 +238,7 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
    + Original sung by Fountains of Wain
 1. Stay
 1. Stitches
+   + Original sung by Shawn Mendes
 1. Stutter
 1. Supermarket Flowers
    + Original sung by Ed Sheerhan
@@ -244,7 +251,7 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
    + Hebrew
 1. Tazizu
    + Hebrew
-1. Tell Me You Love Me (Lowered)
+1. Tell Me You Love Me
 1. The Longest Time
    + Original sung by Billy Joel
 1. These are The Lies
@@ -258,7 +265,8 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
 1. Use Somebody
    + Original sung by Kings of Leon
 1. Valerie
-   + Also a slow start version
+   + Original sung by Amy Winehouse
+   + Two versions
 1. Victorious
 1. Walk Away
 1. Walking In A Winter Wonderland / Let It Snow
@@ -279,8 +287,16 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
 1. Yo Ya
    + Opening, unfinished
 1. You Could Be Happy
+   + Original sung by Snow Patrol
 1. Zahav
    + Hebrew
 
+
 1. אשת חיל
 1. צועקת לך
+
+### Songs for specific universities
+
+1. Universities
+   1. Alma mater for Cornell
+   1. "Ithaca Nights" parody for Cornell
