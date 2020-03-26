@@ -1,6 +1,6 @@
 # Multi-part choral arrangements
 
-Arrangements created for [MuseScore](https://musescore.org). Some arrangements may have PDFs.
+Arrangements created for [MuseScore](https://musescore.org). Some arrangements may have PDFs, and not all music is complete.
 
 1. A Thousand Years
    + Original sung by Christina Perri
@@ -26,11 +26,6 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
    + Original sung by Estelle
 1. Amsterdam
 1. Are You Gonna Be My Girl
-1. Aseh
-1. Ashira (When you believe)
-   + Original sung in The Prince of Egypt
-1. At Yaffa
-   + Hebrew
 1. Born This Way
    + Original sung by Lady Gaga
 1. Bottom of the River
@@ -38,11 +33,15 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
 1. Boulevard of Broken Dreams
    + Original sung by Green Day
 1. Brand New
-1. Breathe For The First Time
+1. Breathe (2AM)
+	+ Originally sung by Anna Nalick
+   + Unfinished, no lyrics
 1. Brielle
 1. Brother
-1. Burnin Up
+1. Burnin' Up
 1. Butterfly
+   + Originally sung by Jason Mraz
+	+ Unfinished (opening only), no lyrics
 1. Bye Bye Bye
    + Original sung by N*Sync
    + Co-ed or male-only
@@ -54,6 +53,7 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
 1. Cheap Thrills
    + Original sung by Sia
 1. Clap Tonight
+   + Unfinished
 1. Climb the Staircase
 1. Closing Time
    + Original sung by Semisonic
@@ -64,15 +64,19 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
 1. D.C. Sleeps Alone Tonight
    + Original sung by The Postal Service
 1. Dancing On My Own
-   + Original sung by Robin
+   + Original sung by Robyn
+	+ 4 parts (SATB), plus alto solo
+	+ Percussion
 1. Dancing On Glass
 1. Dancing Queen
    + Original sung by ABBA
 1. Dancing Queen / On My Own
-   + Original sung by Abba and Robin
+   + Original sung by Abba and Robyn
 	+ Mashup
 1. Dog Days Are Over
    + Original sung by Florence and the Machine
+	+ 5 parts (SMATB), plus solo
+	+ Percussion
 1. Dreaming
 1. Eighteen Cool
    + Original sung by Hoodie Allen
@@ -93,6 +97,9 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
 1. Feel It Still
    + Original sung by Portugal. The Man
 1. Feelin' Good
+   + Original sung by Michael Buble
+	+ 4 parts (SATB), plus Tenor solo
+	+ Percussion
 1. Fly Me To The Moon
    + Original sung by Frank Sinatra
 1. Fool
@@ -100,6 +107,12 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
    + Original sung by Jason Mraz
 1. Girl on Fire
    + Original sung by Alicia Keys
+	+ 6 parts (SSAATB), plus solo
+	+ Percussion and hand clap
+	+ Performance Notes
+		- The most important part of performing this is authenticity. Musical precision is less important than the conveying camaraderie, vulnerability, and uplifting joy with the right energy and emotion in the appropriate places.
+		- Any performance of this should use at least 2 soloists. Change soloists at Verse 2 (rehearsal markings D), and switch to a duet or change to another soloist at the bridge (rehearsal marking G).
+		- Backing vocals are structured as a chorus of women's voices and a chorus of ally voices (in commonly male voice ranges). By design, this arrangement focuses on celebrating women's voices while the ally chorus part is simpler, but an engaged ally chorus that is supporting the musical/stylistic choices of the women's chorus will empower the women's chorus to convey the more complex texture and ornaments. Please sing earnestly regardless of your part!
 1. Go the Distance
 1. Golden Boy
    + Original sung by Nadav Guedj
@@ -121,6 +134,8 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
    + Original sung by Panic! At The Disco
 1. I Kissed a Girl
    + Original sung by Katy Perry
+	+ 3 part (TBB), plus solo
+	+ Percussion (drumset)
 1. I Really Want It (remastered)
 1. I Want You
 1. I Want You Back
@@ -140,9 +155,6 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
 1. Magic
 1. Mercy
    + Original sung by Duffy
-1. Miracle
-   + Holiday song
-	   + Hanukkah
 1. Morning Comes
 1. Moving Forward
 1. Need Your Love
@@ -209,6 +221,8 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
    + Original sung by Kings of Leon
 1. Valerie
    + Original sung by Amy Winehouse
+	+ 4 parts (SATB), plus solo
+	+ Percussion
    + Two versions
 1. Victorious
 1. Walk Away
@@ -243,26 +257,28 @@ Music with Hebrew names or in Hebrew. This includes holiday music.
 	+ Percussion
 	+ Refer to final version
 1. Al Hanissim
-	+ Holiday song
-	   + Hanukkah
+	+ Hanukkah
 1. Ani Maamin
+1. Aseh
+1. Ashira (When you believe)
+   + Original sung in The Prince of Egypt
+1. At Yaffa
 1. Bshem
 1. Chalomot
 1. Darkeinu
 1. Efer Veavak
 1. Eili, Eili
 1. Hanukah Mashup
-	+ Holiday Song
-	   + Hanukkah
+	+ Hanukkah
 1. Holech Lesham
 1. Ihiye Beseder
 1. Ki Malachav
 1. Lo Yaavod Yehey
 1. Maoh Tzur
-   + Hebrew
-	+ Holiday song
-	   + Hanukkah
+	+ Hanukkah
 1. Mi Shema'amin
+1. Miracle
+	+ Hanukkah
 1. Nachamu
 1. Notenet Li Bayit
 1. Sam Tabaat Aleha
@@ -271,9 +287,8 @@ Music with Hebrew names or in Hebrew. This includes holiday music.
 1. Tazizu
 1. Umacha
 1. Yesh Tikvah
+1. Wonder Woman (אשת חיל)
 1. Zahav
-
-1. אשת חיל
 1. צועקת לך
 
 ### Songs for specific universities
