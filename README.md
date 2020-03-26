@@ -44,7 +44,7 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
 	+ Unfinished (opening only), no lyrics
 1. Bye Bye Bye
    + Original sung by N*Sync
-   + Co-ed or male-only
+   + Co-ed or men-only
 1. Can't Buy Me Love
    + Original sung by The Beatles
 1. Change Of Seasons
