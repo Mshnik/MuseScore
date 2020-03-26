@@ -71,8 +71,10 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
 1. Dancing Queen
    + Original sung by ABBA
 1. Dancing Queen / On My Own
-   + Original sung by Abba and Robyn
+   + Original sung by ABBA and Robyn
 	+ Mashup
+	+ 4 parts (SATB), plus two solo lines
+	+ Percussion (drumset)
 1. Dog Days Are Over
    + Original sung by Florence and the Machine
 	+ 5 parts (SMATB), plus solo
@@ -82,8 +84,6 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
    + Original sung by Hoodie Allen
 1. Elastic Heart
    + Original sung by Sia
-1. Et Rikod
-   + Hebrew
 1. Ever After
 1. Everybody Talks
    + Original sung by Neon Trees
@@ -91,9 +91,12 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
 1. Everywhere, Absolutely
 1. Exes and Ohs
    + Original sung by Elle King
+	+ 4 parts (SATB), plus solo
+	+ Percussion (drumset)
 1. Faith Freedom
 1. Feel Good Inc
    + Original sung by Gorillaz
+	+ Unfinished
 1. Feel It Still
    + Original sung by Portugal. The Man
 1. Feelin' Good
@@ -146,12 +149,16 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
 1. King of Anything
 1. Let's Get it Started
    + Original sung by The Black Eyed Peas
-1. Little talks
+1. Little Talks
    + Original sung by Of Monsters and Men
+	+ 6 parts (SMATTB)
+	+ Unfinished
 1. Location
 1. Love, Save the Empty
 1. Lucky
-   + Original sung by Britney Spears
+   + Original sung by Jason Mraz and Colbie Calet
+	+ 4 parts (SATB), plus two solos
+	+ Percussion (drumset)
 1. Magic
 1. Mercy
    + Original sung by Duffy
@@ -169,7 +176,10 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
 1. One Day
 1. Oops I Did it Again
    + Original sung by Britney Spears
-   + Co-ed or women-only
+   + Co-ed or men-only
+	   + 4 parts (TTBB), plus solo
+		+ 4 parts (SATB), plus solo
+   + Percussion
 1. Or
 1. Party Shart
 1. Perfect Day
@@ -180,6 +190,9 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
 1. Run Away With Me
    + Original sung by Carly Rae Jepen
 1. Run Away With Me / Everytime We Touch
+   + Original sung by Carly Rae Jepen and 
+	+ 4 parts with splits (SATB), 2 solo lines
+	+ Percussion (drumset)
 1. Run To You
    + Original sung by Penatonix
 1. San Francisco
@@ -191,6 +204,8 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
    + Original sung by Lady Gaga in A Star is Born
 1. Shut Up and Dance
    + Original sung by Walk the Moon
+	+ 4 parts (SATB), plus solo
+	+ Percussion (drumset)
 1. Silhouettes
 1. Slow Me Down
 1. Small Town
@@ -198,8 +213,11 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
    + Original sung by Queen
 1. Something Else
 1. Stacy's Mom
-   + Original sung by Fountains of Wain
+   + Original sung by Fountains of Wayne
 1. Stay
+   + Original sung by Alessia Cara
+	+ 4 parts (SATB), plus solo
+	+ Percussion (drumset)
 1. Stitches
    + Original sung by Shawn Mendes
 1. Stutter
@@ -268,6 +286,7 @@ Music with Hebrew names or in Hebrew. This includes holiday music.
 1. Darkeinu
 1. Efer Veavak
 1. Eili, Eili
+1. Et Rikod
 1. Hanukah Mashup
 	+ Hanukkah
 1. Holech Lesham
