@@ -134,7 +134,8 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
    + Original sung by Panic! At The Disco
 1. I Kissed a Girl
    + Original sung by Katy Perry
-	+ 
+	+ 3 part (TBB), plus solo
+	+ Percussion (drumset)
 1. I Really Want It (remastered)
 1. I Want You
 1. I Want You Back
