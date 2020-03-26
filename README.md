@@ -26,11 +26,6 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
    + Original sung by Estelle
 1. Amsterdam
 1. Are You Gonna Be My Girl
-1. Aseh
-1. Ashira (When you believe)
-   + Original sung in The Prince of Egypt
-1. At Yaffa
-   + Hebrew
 1. Born This Way
    + Original sung by Lady Gaga
 1. Bottom of the River
@@ -140,9 +135,6 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
 1. Magic
 1. Mercy
    + Original sung by Duffy
-1. Miracle
-   + Holiday song
-	   + Hanukkah
 1. Morning Comes
 1. Moving Forward
 1. Need Your Love
@@ -243,26 +235,28 @@ Music with Hebrew names or in Hebrew. This includes holiday music.
 	+ Percussion
 	+ Refer to final version
 1. Al Hanissim
-	+ Holiday song
-	   + Hanukkah
+	+ Hanukkah
 1. Ani Maamin
+1. Aseh
+1. Ashira (When you believe)
+   + Original sung in The Prince of Egypt
+1. At Yaffa
 1. Bshem
 1. Chalomot
 1. Darkeinu
 1. Efer Veavak
 1. Eili, Eili
 1. Hanukah Mashup
-	+ Holiday Song
-	   + Hanukkah
+	+ Hanukkah
 1. Holech Lesham
 1. Ihiye Beseder
 1. Ki Malachav
 1. Lo Yaavod Yehey
 1. Maoh Tzur
-   + Hebrew
-	+ Holiday song
-	   + Hanukkah
+	+ Hanukkah
 1. Mi Shema'amin
+1. Miracle
+	+ Hanukkah
 1. Nachamu
 1. Notenet Li Bayit
 1. Sam Tabaat Aleha
@@ -271,9 +265,8 @@ Music with Hebrew names or in Hebrew. This includes holiday music.
 1. Tazizu
 1. Umacha
 1. Yesh Tikvah
+1. Wonder Woman (אשת חיל)
 1. Zahav
-
-1. אשת חיל
 1. צועקת לך
 
 ### Songs for specific universities
