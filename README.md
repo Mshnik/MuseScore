@@ -211,6 +211,8 @@ Arrangements created for [MuseScore](https://musescore.org). Some arrangements m
 1. Tell Me You Love Me
 1. The Longest Time
    + Original sung by Billy Joel
+1. The Weather
+   + Original sung by Lawrence
 1. These are The Lies
 1. This Could All Be Yours
    + Original sung by Guster
